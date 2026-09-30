@@ -20,4 +20,5 @@ For commercial quotation, POC trial and technical discussion, please send inquir
 
 ## License
 Demo code: MIT
+
 All datasheets, whitepapers and technical documents: Proprietary, all rights reserved.
