@@ -15,7 +15,7 @@ Public technical resources for EnerTraffic smart traffic sensing solutions: LiDA
 - [Images](./assets/images): Product photos, diagrams, point‑cloud visualization
 
 ## Featured Case
-[FFmpeg RTSP demuxer truncates H.264 NAL units on RISC‑V vision SoC](./docs/troubleshooting/ffmpeg‑rtsp‑riscv‑nal‑truncation.md)
+[FFmpeg RTSP demuxer truncates H.264 NAL units on RISC‑V vision SoC](./docs/troubleshooting/ffmpeg-rtsp-h264-nal-truncation-riscv-perception.md)
 > Discussion: Electrical Engineering Stack Exchange
 
 ## Contact Us
