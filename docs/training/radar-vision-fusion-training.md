@@ -43,7 +43,7 @@ The full PDF training material contains seven major chapters:
 ## Full Training Document (PDF Download)
 > This is the public‑release training version. Partial confidential internal technical details are omitted.
 
-📄 [EnerTraffic‑Radar‑Vision‑Fusion‑Sensor‑Training.pdf](./EnerTraffic-Radar-Vision-Fusion-Sensor-Training.pdf.pdf)
+📄 [EnerTraffic‑Radar‑Vision‑Fusion‑Sensor‑Training.pdf](./EnerTraffic-Radar-Vision-Fusion-Sensor-Training.pdf)
 
 ## Additional Information
 For full‑range technical datasheets, project‑specific evaluation materials or commercial cooperation inquiries, please visit our official website:
