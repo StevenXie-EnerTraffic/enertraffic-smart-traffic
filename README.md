@@ -7,6 +7,7 @@ Public technical resources for EnerTraffic smart traffic sensing solutions: LiDA
 - [Datasheets](./docs/datasheets): Product datasheets, specification sheets
 - [Whitepapers](./docs/whitepapers): Solution whitepapers, algorithm introduction
 - [Training](./docs/training): Product training and operation materials
+  - [Radar‑Vision Fusion Sensor Training](./docs/training/radar‑vision‑fusion‑sensor‑training.md)
 - [Proposals](./docs/proposals): Pilot‑site and project proposal documents
 - [Troubleshooting](./docs/troubleshooting): FAQ & technical support guide
 - [Demo](./demo): Demo videos, deployment showcase
