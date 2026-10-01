@@ -1,4 +1,4 @@
-# EnerTraffic Technical Documentation Library
+# EnerTraffic Smart Traffic
 Public technical resources for EnerTraffic smart traffic sensing solutions: LiDAR, Radar‑Vision fusion, ANPR, traffic signal optimization.
 > Visit our official website: https://enertraffic.com
 
